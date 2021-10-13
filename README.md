@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**ana-aguilar7/ana-aguilar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Glad to see you here!
 
-Here are some ideas to get you started:
+My name is Ana Aguilar and I'm a DevOps engineer. I'm from Brazil, living in Fortaleza-CE and currently working at PicPay. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Skills </h3>
+
+- 💻 &nbsp; Docker | Ansible | Terraform | Kubernetes | Rundeck | AWS
+
+
+<h3>📱Talking about Personal Stuffs </h3>
+
+* 📫 You can find me on [Orkut](http://orkut.com), hahahahaha!
+
+* 🤓 Fun fact: I play soccer and play cajon!
+
+
