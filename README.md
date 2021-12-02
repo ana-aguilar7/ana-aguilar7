@@ -2,7 +2,7 @@
 
 ### Glad to see you here!
 
-My name is Ana Aguilar and I'm a DevOps engineer. I'm from Brazil, living in Fortaleza-CE and currently working at PicPay. 
+My name is Ana Aguilar and I'm a DevOps engineer. I'm from Brazil, living in Fortaleza-CE and currently working at QuintoAndar. 
 
 <h3>🛠 Skills </h3>
 
